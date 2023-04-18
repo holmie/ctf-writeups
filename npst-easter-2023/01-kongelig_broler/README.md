@@ -2,12 +2,13 @@
 The challenge text says that "Pen GWYN" was caught in the security check at the airport. He had a chess board with him and a document that seems to be encrypted.
 
 The file was called fen.txt and contained
-```
+````
 FEN "8/2kqrn2/2b2b2/2nrpp2/2p5/2p5/8/8 w - - 0 1",
 FEN "8/2kqrn2/2b5/2bnrp2/5p2/2pppp2/8/8 w - - 0 1",
 FEN "8/1kqrnb2/3b4/3n4/3r4/3p4/8/8 w - - 0 1",
 FEN "8/3kq3/3r4/2nb4/3b4/3nr3/8/8 w - - 0 1",
-``` etc...
+````
+etc...
 
 I play a bit of recreational chess and recognized the Forsyth-Edwards Notation
 The format goes like;
